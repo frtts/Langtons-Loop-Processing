@@ -1,3 +1,8 @@
 これはLangtonの自己複製ループをProcessingで書いたものです。
 
 遊びで作りました。
+
+Langtons-Loops.tableは
+ruletablerepository - A collection of tables and code for cellular automata rules - Google Project Hosting
+http://code.google.com/p/ruletablerepository/
+から取って来ました。
